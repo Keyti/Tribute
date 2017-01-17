@@ -1,3 +1,3 @@
-A Pen created at CodePen.io. You can find this one at http://codepen.io/Keyti/pen/YpQZOW.
+A Pen created at CodePen.io. You can find this one at http://codepen.io/Keyti/full/YpQZOW.
 
  
